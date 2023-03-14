@@ -15,7 +15,7 @@ Wymagania:
 * podstawowa wiedza z terraforma
 * wykonanie instrukcji ;)
 
-OSTRZEZENIE: Obecna wersja zawiera instrukcje dla obrazu Debiana, a nie Ubuntu! (klania sie czytanie ze zrozumieniem ;) 
+Z powodu, ze w pierwszej kolejnosci utworzylem kod pod Debiana (nie doczytujac, ze w zadaniach jest napisane Ubuntu) zostawiam dwie mozliwosci co do wygladu VMek :)
 
 ---
 ### Instrukcja:
