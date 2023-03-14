@@ -68,6 +68,7 @@ qm template 9000
 ```
 
 Wersja ubuntu:
+
 (automat: bin/create_ubuntu_template.sh)
 ```
 apt-get install -y libguestfs-tools
